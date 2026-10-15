@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Raj 👋
 
-<!--
-**rajrk31/rajrk31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end web developer building responsive websites and landing pages with **HTML** and **CSS**.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Portfolio Website](https://github.com/rajrk31/portfolio_website)
+- [Chase Landing Page](https://github.com/rajrk31/Chase-landing-page)
+- [Lead Generation Landing Page](https://github.com/rajrk31/Leadgen-Landing-page)
+- [MDS Bakes Website](https://github.com/rajrk31/MDS-Bakes-website)
+
+## Focus
+
+- Responsive layouts and clear, user-friendly design
+- Building and improving front-end web projects
+
+Thanks for visiting!
